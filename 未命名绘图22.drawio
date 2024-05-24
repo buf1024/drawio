@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T03:26:31.027Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="VkZaMy9Y94dH2eLAaXqk" version="24.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T03:31:48.503Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="VcoAOL8ghanbTEyipIE4" version="24.4.7" type="github">
   <diagram name="第 1 页" id="g9GaiNzB98gWVUfawiRK">
     <mxGraphModel dx="950" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -180,6 +180,9 @@
             <mxPoint x="610" y="1060" as="sourcePoint" />
             <mxPoint x="240" y="990" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FD9zBaWAwN7f3C2ogDmK-66" value="网元" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="430" y="30" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
